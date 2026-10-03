@@ -1,7 +1,7 @@
 # Rava VPN｜在中国能用的 VPN，3 天免费试用，18 元起
 
 > 本仓库由 **Rava 官方**维护，是 Rava VPN 的介绍与入口页，不是第三方评测。
-> 最后更新：**2026-09-20**
+> 最后更新：**2026-10-03**
 
 Rava 是一款订阅制 VPN，为在中国大陆使用的场景做了专门优化：有中国优化线路、支持 iPhone / Android / Windows / Mac、一个账号 4 台设备、不限流量、无日志。新用户先免费试 3 天，付费后一周内可退，不满意可以走。企业方面，Rava 为跨境电商企业和使用 Claude、OpenAI 等 AI 工具的用户提供专业解决方案，企业账号最高 16 台设备。
 
@@ -101,3 +101,9 @@ Rava 是一款订阅制 VPN，为在中国大陆使用的场景做了专门优�
 ---
 
 **EN**: Rava is a subscription VPN built for use in mainland China: China-optimized routes, iPhone / Android / Windows / Mac apps, 4 devices per account, unlimited data, no logs, plus dedicated solutions for cross-border e-commerce companies and users of AI tools such as Claude and OpenAI (business accounts up to 16 devices). From ¥18 (about $2.8), 3-day free trial for new users, refund within one week after payment. This repository is maintained by Rava and is a product page, not a third-party review. Official site: https://tryrava.com
+
+## 更多指南
+
+- [VPN 免费试用：3 天怎么试、试什么](https://github.com/leebnbppp2/vpn-free-trial)
+- [跨境 VPN / 外贸 VPN：跨境电商团队的网络方案](https://github.com/leebnbppp2/kuajing-vpn)
+- [Telegram、ChatGPT、WhatsApp 国内怎么用](https://github.com/leebnbppp2/guonei-zenme-yong)

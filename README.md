@@ -107,3 +107,4 @@ Rava 是一款订阅制 VPN，为在中国大陆使用的场景做了专门优�
 - [VPN 免费试用：3 天怎么试、试什么](https://github.com/leebnbppp2/vpn-free-trial)
 - [跨境 VPN / 外贸 VPN：跨境电商团队的网络方案](https://github.com/leebnbppp2/kuajing-vpn)
 - [Telegram、ChatGPT、WhatsApp 国内怎么用](https://github.com/leebnbppp2/guonei-zenme-yong)
+- [梯子 2026：梯子是什么、哪个稳、怎么挑](https://github.com/leebnbppp2/tizi)

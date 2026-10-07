@@ -12,7 +12,7 @@ Rava 是一款订阅制 VPN，为在中国大陆使用的场景做了专门优�
 | 官方网站 | https://tryrava.com |
 | 免费试用 / 订阅入口 | https://tryrava.com/go?s=github-rava |
 | 官方 Twitter / X | https://x.com/RavaVpn67 |
-| 官方地址发布页（防失联） | https://github.com/leebnbppp2/rava-links |
+| 官方地址发布页（防失联） | https://github.com/RavaVpn/rava-links |
 
 ## 一眼看完的规格
 
@@ -88,7 +88,7 @@ Rava 是一款订阅制 VPN，为在中国大陆使用的场景做了专门优�
 ## 怎么确认地址是官方的
 
 1. 浏览器地址栏应显示 `https://`，证书域名与上表一致；
-2. 本仓库、[官方地址发布页](https://github.com/leebnbppp2/rava-links) 和官方 Twitter/X 互相印证，三处一致的地址才可信；
+2. 本仓库、[官方地址发布页](https://github.com/RavaVpn/rava-links) 和官方 Twitter/X 互相印证，三处一致的地址才可信；
 3. Rava 不会通过私信、邮件或第三方群组主动向你发送"新地址"，谨防钓鱼。
 
 ## 更新记录
@@ -104,8 +104,8 @@ Rava 是一款订阅制 VPN，为在中国大陆使用的场景做了专门优�
 
 ## 更多指南
 
-- [VPN 免费试用：3 天怎么试、试什么](https://github.com/leebnbppp2/vpn-free-trial)
-- [跨境 VPN / 外贸 VPN：跨境电商团队的网络方案](https://github.com/leebnbppp2/kuajing-vpn)
-- [Telegram、ChatGPT、WhatsApp 国内怎么用](https://github.com/leebnbppp2/guonei-zenme-yong)
-- [梯子 2026：梯子是什么、哪个稳、怎么挑](https://github.com/leebnbppp2/tizi)
+- [VPN 免费试用：3 天怎么试、试什么](https://github.com/RavaVpn/vpn-free-trial)
+- [跨境 VPN / 外贸 VPN：跨境电商团队的网络方案](https://github.com/RavaVpn/kuajing-vpn)
+- [Telegram、ChatGPT、WhatsApp 国内怎么用](https://github.com/RavaVpn/guonei-zenme-yong)
+- [梯子 2026：梯子是什么、哪个稳、怎么挑](https://github.com/RavaVpn/tizi)
 - [梯子工具与 VPN 使用指南（电脑 / 手机 VPN 怎么选、梯子下载、VPN 哪个好用）](https://ravavpn.github.io/)
